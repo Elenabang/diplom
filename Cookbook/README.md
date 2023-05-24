@@ -1,4 +1,2 @@
-# TheCookbookApp
-A cookbook app for users wanting to search for recipes and store recipes.
+CookbookApp
 
-Developed using WPF and C#
